@@ -71,7 +71,3 @@
 
 * [Page 1](group-3/page-1.md)
   * [Test Title 1](group-3/page-1/test-title-2.md)
-
-## Group 4
-
-* [Group 4 Page 1](group-4/group-4-page-1.md)
