@@ -55,6 +55,8 @@
       * [2.3.2.2 Subdivision](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.2-tokenisation-of-work/2.3.2.2-subdivision.md)
       * [2.3.2.3 Transferability](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.2-tokenisation-of-work/2.3.2.3-transferability.md)
     * [2.3.4 Treasury](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.4-treasury.md)
+  * [Page 1](2.-organisational-architecture/2.4-production-environment/page-1/README.md)
+    * [Test Title 1](2.-organisational-architecture/2.4-production-environment/page-1/test-title-2.md)
 
 ## Business Plan
 
@@ -68,6 +70,3 @@
 * [3.3 Phase 3: Programming & Implementation](3.-roadmap/3.3-phase-3-programming-and-implementation.md)
 
 ## Group 3
-
-* [Page 1](group-3/page-1.md)
-  * [Test Title 1](group-3/page-1/test-title-2.md)
