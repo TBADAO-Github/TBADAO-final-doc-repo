@@ -68,3 +68,5 @@
 * [3.3 Phase 3: Programming & Implementation](3.-roadmap/3.3-phase-3-programming-and-implementation.md)
 
 ## Group 3
+
+* [Inspirations](group-3/inspirations.md)
