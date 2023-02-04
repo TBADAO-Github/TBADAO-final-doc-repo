@@ -8,7 +8,7 @@
 * [1.3 Values](1.-constitution/1.3-values/README.md)
   * [1.3.0.0 Decentralisation](1.-constitution/1.3-values/1.3.0.0-decentralisation.md)
   * [1.3.0 Public Permissionless](1.-constitution/1.3-values/1.3.0-public-permissionless.md)
-  * [1.3.0 Open Source](1.-constitution/1.3-values/1.3.0-open-source.md)
+  * [1.3.0 Open Source, community owned](1.-constitution/1.3-values/1.3.0-open-source-community-owned.md)
   * [1.3.1 Economics is a Choice](1.-constitution/1.3-values/1.3.1-economics-is-a-choice.md)
   * [1.3.2 Decentralisation, crowdwisdom & Democracy](1.-constitution/1.3-values/1.3.2-decentralisation-and-democracy.md)
   * [1.3.2 Open Source](1.-constitution/1.3-values/1.3.2-open-source.md)
