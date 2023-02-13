@@ -7,6 +7,7 @@
 * [1.2 Mission](1.-constitution/1.2-mission.md)
 * [1.3 Guiding Principles](1.-constitution/1.3-values/README.md)
   * [1.3.0.0.0 Blockchain is an Institutional Technology & Evolution](1.-constitution/1.3-values/1.3.0.0.0-blockchain-is-an-institutional-technology-and-evolution.md)
+  * [1.3.0.0.0.0 No small Incremental Changes](1.-constitution/1.3-values/1.3.0.0.0.0-no-small-incremental-changes.md)
   * [1.3.0.0 Decentralisation](1.-constitution/1.3-values/1.3.0.0-decentralisation.md)
   * [1.3.0 Public Permissionless](1.-constitution/1.3-values/1.3.0-public-permissionless.md)
   * [1.3.0 Open Source, community owned](1.-constitution/1.3-values/1.3.0-open-source-community-owned.md)
