@@ -1,5 +1,30 @@
 # 3. Roadmap
 
+the central objective of Roadmap = launch of utility token as means of payment for internal advice from expert to expert (e.g. I need guidance from another expert on a topic that I need to implement in a client's contract, I pay that expert with the utility token)
+
+T-6 = employment of a smart contract developer
+
+T-5 = creation of reputation system + creation of soul-bound governance token
+
+T-4 = creation of utility token + repartition (founders and early contributors like community manager, smart contract programmer 0.5%, rest as a proportional airdrop to the community (e.g. 10 x 0.5% = 5% + 500x0.19%)
+
+T-3 = creation of&#x20;
+
+* an internal market for the utility token
+* a discovery register of experts and contributors in the community
+
+T-2 = employment of a community manager that will manage T-1, community creation
+
+T-1 = community creation finalised (objective reach 500 joined experts. timeframe 4 months(?)). Creation of teams (marketing, sales, development, advisory, management, ...)
+
+T = airdrop of utility token to the community of contributors (sales, marketing, advisory,&#x20;
+
+T+1 =&#x20;
+
+
+
+\==========
+
 Quick conversation with ChatGPT:\
 "\
 As a DAO entrepreneur, what should I concentrate on in 2023? As a DAO entrepreneur, there are a few key areas that you may want to concentrate on in 2023:
