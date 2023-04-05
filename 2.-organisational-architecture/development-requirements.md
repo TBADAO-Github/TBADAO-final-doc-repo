@@ -2,7 +2,7 @@
 
 Governance:
 
-* 1 person, one vote through Soul Bound Tokens or [https://app.proofofhumanity.id/](https://app.proofofhumanity.id/)
+* find solution for: 1 person, one vote through Soul Bound Tokens or [https://app.proofofhumanity.id/](https://app.proofofhumanity.id/)
 * General Assembly holds all the voting DAO members and has as first powers:
   * Allocation and retraction of use of keys for executors (e.g. treasury keys, operational management
     * the DAO should have an online governance module that implements automatically the key allocation and retraction decisions from the general assembly&#x20;
