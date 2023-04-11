@@ -6,14 +6,14 @@ Onboarding:
 
 Communication:
 
-* note to self: check a decentralised alternative to Discord / Discours here: [https://useorbis.com/dashboard](https://useorbis.com/dashboard)
+* note to self: check a decentralised alternative to Discord / Discours here: [https://useorbis.com/dashboard](https://useorbis.com/dashboard) and here: [https://app.orbis.club/group/kjzl6cwe1jw149awlukp9qmgerrpmcdqwntqis1uqoe6zs3nf6lubc9mlgpk1v5/kjzl6cwe1jw14bgv27svcrulzxl1gc8pv8dn72oiaz4waqdwoixeok0h6312bc3](https://app.orbis.club/group/kjzl6cwe1jw149awlukp9qmgerrpmcdqwntqis1uqoe6zs3nf6lubc9mlgpk1v5/kjzl6cwe1jw14bgv27svcrulzxl1gc8pv8dn72oiaz4waqdwoixeok0h6312bc3)
 
 Governance:
 
 * find solution for: 1 person, one vote through Soul Bound Tokens or [https://app.proofofhumanity.id/](https://app.proofofhumanity.id/)
 * General Assembly holds all the voting DAO members and has as first powers:
   * Allocation and retraction of use of keys for executors (e.g. treasury keys, operational management
-    * the DAO should have an online governance module that implements automatically the key allocation and retraction decisions from the general assembly&#x20;
+    * the DAO should have an online governance module that implements automatically the key allocation and retraction decisions from the general assembly
 
 User journey:
 
