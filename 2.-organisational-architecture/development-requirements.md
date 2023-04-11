@@ -4,6 +4,10 @@ Onboarding:
 
 * note to self: "gating" to the DAO through a Gitcoin passport holding the following stamps: Proof-of-Humanity, Github account, and discord account.
 
+Communication:
+
+* note to self: check a decentralised alternative to Discord / Discours here: [https://useorbis.com/dashboard](https://useorbis.com/dashboard)
+
 Governance:
 
 * find solution for: 1 person, one vote through Soul Bound Tokens or [https://app.proofofhumanity.id/](https://app.proofofhumanity.id/)
