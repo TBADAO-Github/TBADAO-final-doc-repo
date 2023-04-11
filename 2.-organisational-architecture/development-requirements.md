@@ -6,7 +6,7 @@ Onboarding:
 
 Communication:
 
-* note to self: check a decentralised alternative to Discord / Discours here: [https://useorbis.com/dashboard](https://useorbis.com/dashboard)
+* note to self: check a decentralised alternative to Discord / Discours here: [https://app.orbis.club/group/kjzl6cwe1jw149awlukp9qmgerrpmcdqwntqis1uqoe6zs3nf6lubc9mlgpk1v5/kjzl6cwe1jw14bgv27svcrulzxl1gc8pv8dn72oiaz4waqdwoixeok0h6312bc3](https://app.orbis.club/group/kjzl6cwe1jw149awlukp9qmgerrpmcdqwntqis1uqoe6zs3nf6lubc9mlgpk1v5/kjzl6cwe1jw14bgv27svcrulzxl1gc8pv8dn72oiaz4waqdwoixeok0h6312bc3)
 
 Governance:
 
